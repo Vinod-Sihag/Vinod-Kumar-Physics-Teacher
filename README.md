@@ -134,7 +134,7 @@
 
     <footer class="footer">
         <p>Contact me at <strong>choudharyvinodsihag2001@gmail.com</strong></p>
-        <p>Follow me on <a href="https://www.linkedin.com" style="color: white; text-decoration: underline;">LinkedIn</a></p>
+        <p>Follow me on <a href="www.linkedin.com/in/vinod-choudhary-0334a3225" style="color: white; text-decoration: underline;">LinkedIn</a></p>
     </footer>
 </body>
 </html>
