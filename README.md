@@ -115,7 +115,7 @@
         <h2>Qualifications</h2>
         <ul>
             <li><i class="fas fa-graduation-cap"></i> B.Sc. (Honours) Physics - Hansraj College, University of Delhi</li>
-            <li><i class="fas fa-graduation-cap"></i> M.Sc. Physics - IIT Mandi, Himachal Pradesh</li>
+            <li><i class="fas fa-graduation-cap"></i> M.Sc. Physics - IIT Mandi</li>
             <li><i class="fas fa-award"></i> Qualified IIT JAM</li>
             <li><i class="fas fa-award"></i> Qualified Rajasthan SET for Assistant Professor</li>
         </ul>
